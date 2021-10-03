@@ -1,8 +1,11 @@
-# Hey, I'm Poom!
+I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and everything terminal. I'm currently the Head of Platform at BRIKL. I'm learning Rust, Clojure, Kotlin and Elixir.
 
-Hey! I'm a dev who loves building stuff out of cutting-edge technologies and organizing dev events and hackathons. I'm currently a platform architect at BRIKL. I'm in love with TypeScript, but learning Rust, Clojure, Kotlin and Elixir.
+## Projects
 
-I mainly share my stuff at [heypoom.com](https://heypoom.com) where I share my side projects, stories, thoughts and things I learned. Enjoy!
+- See my projects and writings at [poom.dev](https://poom.dev).
+- My dotfiles is at http://github.com/heypoom/dotfiles -- I mainly use Fish, Neovim, Tmux and more. Check it out!
+
+## Links
 
 - Ping me on Twitter at [@heypoom](https://twitter.com/heypoom)
 - My side projects on GitHub at [@heypoom](https://github.com/heypoom)
