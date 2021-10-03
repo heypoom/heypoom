@@ -2,7 +2,7 @@ I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and
 
 ## Projects
 
-- See my projects and writings at [poom.dev](https://poom.dev).
+- See my projects and writings at [https://poom.dev](https://poom.dev).
 - My dotfiles is at http://github.com/heypoom/dotfiles -- I mainly use Fish, Neovim, Tmux and more. Check it out!
 
 ## Links
