@@ -1,4 +1,4 @@
-I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and everything terminal. I'm currently the VP of Engineering at BRIKL. I'm learning Rust, Clojure, Kotlin and Elixir.
+I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and everything terminal. I'm currently the VP of Engineering at Brikl. I'm learning Rust, Clojure, Kotlin and Elixir.
 
 ## Projects
 
