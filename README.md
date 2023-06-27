@@ -1,4 +1,4 @@
-I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and everything terminal. I'm currently the VP of Engineering at Brikl. I'm learning Rust, Clojure, Kotlin and Elixir.
+I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript, React and everything terminal. I'm learning Rust, Clojure, Kotlin and Elixir.
 
 ## Projects
 
@@ -9,6 +9,6 @@ I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript and
 
 - Ping me on Twitter at [@heypoom](https://twitter.com/heypoom)
 - My side projects on GitHub at [@heypoom](https://github.com/heypoom)
-- Contact me via Email at [poom@hey.com](mailto:poom@hey.com)
+- Contact me via Email at [poom@poom.dev](mailto:poom@poom.dev)
 - I'm on DEV as [@heypoom](https://dev.to/heypoom), and also Reddit as [@heypoom](https://reddit.com/u/heypoom)
 - Need to verify my message? My Keybase is on [@phoomparin](https://keybase.io/phoomparin)
