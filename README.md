@@ -1,9 +1,10 @@
-I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript, React and everything terminal. I'm learning Rust, Clojure, Kotlin and Elixir.
+I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript, React and everything terminal. I'm learning Rust, Kotlin, Elixir and Clojure.
 
 ## Projects
 
-- See my projects and writings at [https://poom.dev](https://poom.dev).
-- My dotfiles is at http://github.com/heypoom/dotfiles -- I mainly use Fish, Neovim, Tmux and more. Check it out!
+- [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): I built a bytecode virtual machine and compiler in Rust, compiled to WebAssembly and created a visual editor for the machines to send messages together.
+- [My dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
+- See my other projects and writings at [https://poom.dev](https://poom.dev).
 
 ## Links
 
