@@ -2,7 +2,7 @@ I'm Poom, a software engineer, indie maker, and community builder from Bangkok, 
 
 ## A little bit about me
 
-- I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ events, hackathons, meetups and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand.
+- I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
 - I dropped out of high school since I was 15 years old to focus on building software, and I've worked in several startups in Thailand and United States since.
 - I was the VP of Engineering at Brikl, but I've been focusing on building things. While I can do people/product management, building software and getting deep in computer science is what truly makes me happy.
 -I also gave ~100 talks on software engineering and learning principles in meetups, conferences and universities.
