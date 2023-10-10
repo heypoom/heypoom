@@ -30,10 +30,12 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 
 - [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
 - Copilot for Polyglot Programmers, GitHub Community Meetup at Microsoft
+  Building an MVP for Developers at KU Startup Camp
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
 - AI Trends: Human and Machine Symbiosis at KMITL Lifelong Learning Centre
 - [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at Boundless Entrepreneurship event, KMUTT University
+- [GraphQL in three milliseconds with Rust](#!), at GraphQL Bangkok meetup.
 - [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
 - [Building Magic at TEDxYouth Bangkok](https://www.youtube.com/watch?v=A2JUeJcPAaQ)
@@ -42,13 +44,8 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
 - [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
-- GraphQL in three milliseconds with Rust, at GraphQL Bangkok meetup.
-- Building fast and small desktop applications with Tauri
-- Building an MVP for Developers at KU Startup Camp
-- Ideating for Humans at Young Webmaster Camp 19
 - The hacker trilogy series: Hacking the Black Box, Foundation for the Future Hackers & Why Hackers Hack together.
 - The high-school dropout developer series: Reflections of 5 Years, Silicon Valley Stories, Journey into the Valley
-- TypeScript Crash Course: Day 1 & 2
 - More talks are available at [my website](https://poom.dev).
 
 ## Links
