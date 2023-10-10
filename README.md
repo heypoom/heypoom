@@ -1,6 +1,6 @@
 I'm Poom, a software engineer, indie maker and community builder from Bangkok, Thailand.
 
-I co-founded @Creatorsgarten, a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. I dropped out of school when I was in Grade 10, and worked in several startups in Thailand and us. I've organized ~50 events in Thailand, gave ~100 talks on software engineering and learning principles. I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure.
+I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. I dropped out of school when I was in Grade 10, and worked in several startups in Thailand and us. I've organized [50+ events, hackathons, meetups and long-term community projects](https://creatorsgarten.org/events) in Thailand, gave ~100 talks on software engineering and learning principles. I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure.
 
 ## Projects
 
