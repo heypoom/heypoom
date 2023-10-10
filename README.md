@@ -1,6 +1,6 @@
 I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
 
-## A little bit about me~
+## A little bit about me
 
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ events, hackathons, meetups and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand.
 - I dropped out of high school since I was 15 years old to focus on building software, and I've worked in several startups in Thailand and United States since.
