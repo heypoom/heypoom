@@ -2,7 +2,9 @@ I'm Phoomparin Mano, a developer from Bangkok, Thailand who loves TypeScript, Re
 
 ## Projects
 
-- [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): I built a bytecode virtual machine and compiler in Rust, compiled to WebAssembly and created a visual editor for the machines to send messages together.
+- [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with Reactflow, Nanostores, Radix UI and WASM Bindgen.
+- [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money.
+
 - [My dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
 - See my other projects and writings at [https://poom.dev](https://poom.dev).
 
