@@ -8,7 +8,7 @@ I'm Poom, a software engineer, indie maker, and community builder from Bangkok, 
 - I gave ~100 talks on software engineering and learning principles in meetups, conferences and universities.
 - I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure.
 - I like getting my hands dirty in a very wide range of things in computer science and software engineering, from low-level stuff, building compilers, reverse engineering binaries, all the way up to abusing TypeScript's type system to build libraries, architecting frontend applications and backend systems, and building interactive apps. Even if I mainly worked on frontend in my day job, exploring various topics keeps me happy and growing.
-- I'm a plushie collector, I really love plushies and you will see me carrying plushies everyday.
+- I'm a plushie collector, I really love plushies and you will see me carrying plushies everyday. I'll pay for your dinner if you can remember 20 of my plushies' name!
 - I enjoy onsen baths, Japanese cuisine, Macarons, swimming in the sea and waterfalls, hiking the mountains, camping, jogging, and jet skiing.
 
 ## Projects
