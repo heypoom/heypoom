@@ -40,9 +40,8 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [For the love of WebAssembly, Tencent OpenHouse](https://fb.watch/muwS91g1f6), at timestamp 59:30
 - [Hacking on Libra with Rust](https://fb.watch/mux8RDW6kk) at Libra Developer Meetup, timestamp 26:42
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
-- [Teen Programmer](https://fb.watch/muxJZYSf9S)
-- [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic]
-- [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY], at JSConf.Asia (Lightning Talk)
+- [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
+- [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
 - GraphQL in three milliseconds with Rust, at GraphQL Bangkok meetup.
 - Building fast and small desktop applications with Tauri
 - Building an MVP for Developers at KU Startup Camp
