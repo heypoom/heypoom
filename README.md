@@ -14,9 +14,12 @@ I'm Poom, a software engineer, indie maker, and community builder from Bangkok, 
 ## Projects
 
 - [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with Reactflow, Nanostores, Radix UI and WASM Bindgen.
-
 - [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money.
-
+- [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte.
+- [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days.
+- [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
+- [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web.
+- [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits.
 - [My dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
 - See my other projects and writings at [https://poom.dev](https://poom.dev).
 
