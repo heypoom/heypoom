@@ -43,9 +43,6 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [Hacking on Libra with Rust](https://fb.watch/mux8RDW6kk) at Libra Developer Meetup, timestamp 26:42
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
-- [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
-- The hacker trilogy series: Hacking the Black Box, Foundation for the Future Hackers & Why Hackers Hack together.
-- The high-school dropout developer series: Reflections of 5 Years, Silicon Valley Stories, Journey into the Valley
 - More talks are available at [my website](https://poom.dev).
 
 ## Links
