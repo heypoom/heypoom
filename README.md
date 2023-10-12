@@ -45,7 +45,7 @@ I'm enthusiastic about building software, crafting indie products, open-source s
 - [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits. [See the prototype.](https://gitgarden.netlify.app)
 - [GraphQL in 3 milliseconds](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
-- [Webpack Dependency Graph Analyzer](https:/Lgithub.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
+- [Webpack Dependency Graph Analyzer](https://github.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
 - [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web. [See the demo.](https://glassmorphic.netlify.app)
 - [Terminal UI with CSS](https://github.com/heypoom/terminal-ui-with-css): Aesthetically pleasing terminal-style UI components for the web. [See the prototype.](https://css-terminal.netlify.app)
 - [Data Oriented Game Engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
