@@ -16,42 +16,46 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 ## Projects
 
 - [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with React, Reactflow, Nanostores, Radix UI and WASM Bindgen.
-- [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts.
-- [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money.
-- [Poom.dev](https://github.com/heypoom/poom.dev): My personal website, portfolio, blog and digital garden. Built with Astro and Svelte.
+- [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts. [See the prototype.](https://no60-prototype.netlify.app)
+- [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money. [Check it out.](https://spending.poom.dev)
+- [Poom.dev](https://github.com/heypoom/poom.dev): My personal website, portfolio, blog and digital garden. Built with Astro and Svelte. [Check it out.](https://poom.dev)
 - [Poom's Dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
-- [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte.
+- [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte. [Check it out.](https://fastspend.poom.dev)
 - [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days.
-- [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion.
+- [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API
+- [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX. [Check it out.](https://lboard.netlify.app)
+- [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion. [See the prototype.](https://prisoners-dilemma.netlify.app)
 - [Kasikorn Bank Statement PDF Parser](https://github.com/heypoom/kbank-statement-pdf-parser): Parses bank statements from Kasikorn Bank's PDF files.
 - [Kasikorn Credit Card Statement Parser](https://github.com/heypoom/kbank-credit-statement-pdf): Parses credit card statements from Kasikorn Bank's PDF files.
+- [Bullshit Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word. [Check it out.](https://bullshit-stack.netlify.app)
 - [Advanced Types Demo](https://github.com/heypoom/advanced-types-demo): Code sample from my talk on advanced types at TypeScript Berlin Meetup #4
 - [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project.
 - [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly!
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A vanilla-JavaScript library for adding Thai ceremonial banners to your site.
 - [Asmterpreter](https://github.com/heypoom/asmterpreter): Interactive Assembly Interpreter, written in TypeScript and React.
-- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions!
-- [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks!
-- [BS Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word.
+- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions! [Check it out](https://dumbassembly.netlify.app)
+- [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks! [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
 - [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means.
-- [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX.
 - [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
-- [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits.
+- [Voice Kit](https://voicekit.netlify.app): Python learning toolkit built with Pyiodide to create voice assistants in the web.
+- [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits. [See the prototype.](https://gitgarden.netlify.app)
 - [GraphQL in 3 milliseconds](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
 - [Webpack Dependency Graph Analyzer](https:/Lgithub.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
-- [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web.
-- [Terminal UI with CSS](https://github.com/heypoom/terminal-ui-with-css): Aesthetically pleasing terminal-style UI components for the web.
-- [DOGE: data oriented game engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
+- [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web. [See the demo.](https://glassmorphic.netlify.app)
+- [Terminal UI with CSS](https://github.com/heypoom/terminal-ui-with-css): Aesthetically pleasing terminal-style UI components for the web. [See the prototype.](https://css-terminal.netlify.app)
+- [Data Oriented Game Engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
 - [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
-- [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated!
+- [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://unicode-sprite.netlify.app): Turn a unicode character into a 4x4 binary matrix.
+- [Truth Table to Verilog](https://truth-table-to-verilog.netlify.app): Converts a truth table into Verilog code.
 - [Prototypal Assembler](https://github.com/heypoom/proto-assembler): A Kotlin REPL to play and experiment with assembly.
 - [Advent of Code.rb](https://github.com/heypoom/advent-of-code.rb): Poom's Advent of Code solutions in Ruby.
 - [JWCx Grading](https://github.com/WebmasterCamp/jwcx-grading): Submission grading system with React, Firebase, Ant Design and Redux Saga.
 - [JWCx Registration](https://github.com/WebmasterCamp/jwcx-registration-frontend): Registration frontend built with React and Redux Saga.
 - [Launchkey on the web](https://github.com/heypoom/launchkey-web): Use Novation Launchkey on the web.
 - [Talk to Drumpf](https://github.com/heypoom/talk2drumpf): Have a conversation with donald trump. Uses web speech recognition API.
+- [Algorithms in TypeScript](https://github.com/heypoom/algorithms-in-typescript): Exploring algorithms and data structures in TypeScript.
 - See my other projects at [https://poom.dev](https://poom.dev).
   
 See my other projects and writings at [https://poom.dev](https://poom.dev)
