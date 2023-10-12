@@ -18,13 +18,24 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with React, Reactflow, Nanostores, Radix UI and WASM Bindgen.
 - [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts.
 - [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money.
+- [Poom.dev](https://github.com/heypoom/poom.dev): My personal website, portfolio, blog and digital garden. Built with Astro and Svelte.
+- [Poom's Dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte.
 - [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days.
+- [BS Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word.
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
-- [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web.
+- [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits.
-- [My dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
-- See my other projects and writings at [https://poom.dev](https://poom.dev).
+- [GraphQL in 3 ms](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
+- [Webpack Dependency Graph Analyzer](https:/Lgithub.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
+- [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web.
+- [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
+- [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated!
+- [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A vanilla-JavaScript library for adding Thai ceremonial banners to your site.
+- [JWCx Registration Frontend](https://github.com/WebmasterCamp/jwcx-registration-frontend): Registration frontend built with React and Redux for JWCx.
+- See my other projects at [https://poom.dev](https://poom.dev).
+  
+See my other projects and writings at [https://poom.dev](https://poom.dev)
 
 ## Talks
 
