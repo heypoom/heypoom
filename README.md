@@ -15,7 +15,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 
 ## Projects
 
-- [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with Reactflow, Nanostores, Radix UI and WASM Bindgen.
+- [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with React, Reactflow, Nanostores, Radix UI and WASM Bindgen.
 - [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts.
 - [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money.
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte.
