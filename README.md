@@ -1,4 +1,4 @@
-![image](https://github.com/heypoom/heypoom/assets/4714175/763bf4f8-7a88-467d-8b82-431e6c4737c3)![image](https://github.com/heypoom/heypoom/assets/4714175/f70b7893-0aae-412f-a651-6273947973b4)![image](https://github.com/heypoom/heypoom/assets/4714175/05cf796b-284c-44ca-b730-661214c8a884)![image](https://github.com/heypoom/heypoom/assets/4714175/3e515a61-d83d-4bc7-a414-31572a739121)![image](https://github.com/heypoom/heypoom/assets/4714175/3e28c52b-07b6-4ce5-9840-563e21c6e2cf)I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
+I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
 
 ## A little bit about me
 
