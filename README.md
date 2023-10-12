@@ -39,7 +39,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
 - [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means. [See the prototype.](https://thai-id.netlify.app)
 - [EventDuty](https://duties.netlify.app): An early prototype of EventKit; event scheduling management tool for tech events.
-- [Voice Kit](https://voicekit.netlify.app): Python learning toolkit built with Pyiodide to create voice assistants in the web.
+- [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
 - [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits. [See the prototype.](https://gitgarden.netlify.app)
 - [GraphQL in 3 milliseconds](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
