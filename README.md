@@ -36,9 +36,10 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions! [Check it out](https://dumbassembly.netlify.app)
 - [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks! [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
-- [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means.
-- [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
+- [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means. [See the prototype.](https://thai-id.netlify.app)
+- [EventDuty](https://duties.netlify.app): An early prototype of EventKit; event scheduling management tool for tech events.
 - [Voice Kit](https://voicekit.netlify.app): Python learning toolkit built with Pyiodide to create voice assistants in the web.
+- [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits. [See the prototype.](https://gitgarden.netlify.app)
 - [GraphQL in 3 milliseconds](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
 - [Webpack Dependency Graph Analyzer](https:/Lgithub.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
@@ -48,13 +49,14 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://unicode-sprite.netlify.app): Turn a unicode character into a 4x4 binary matrix.
+- [Mastering Backend Course](https://github.com/phoomparin/mastering-backend): My old TypeScript course back in 2019.
 - [Truth Table to Verilog](https://truth-table-to-verilog.netlify.app): Converts a truth table into Verilog code.
 - [Prototypal Assembler](https://github.com/heypoom/proto-assembler): A Kotlin REPL to play and experiment with assembly.
 - [Advent of Code.rb](https://github.com/heypoom/advent-of-code.rb): Poom's Advent of Code solutions in Ruby.
-- [JWCx Grading](https://github.com/WebmasterCamp/jwcx-grading): Submission grading system with React, Firebase, Ant Design and Redux Saga.
+- [JWCx Grading](https://github.com/WebmasterCamp/jwcx-grading): Submission grading system with React, Firebase, Ant Design and Redux Saga. [See the demo.](https://jwcxi-grading.netlify.app)
 - [JWCx Registration](https://github.com/WebmasterCamp/jwcx-registration-frontend): Registration frontend built with React and Redux Saga.
 - [Launchkey on the web](https://github.com/heypoom/launchkey-web): Use Novation Launchkey on the web.
-- [Talk to Drumpf](https://github.com/heypoom/talk2drumpf): Have a conversation with donald trump. Uses web speech recognition API.
+- [Talk to Drumpf](https://github.com/heypoom/talk2drumpf): Have a conversation with donald trump. Uses web speech recognition API. [See the prototype.](https://rump.netlify.app)
 - [Algorithms in TypeScript](https://github.com/heypoom/algorithms-in-typescript): Exploring algorithms and data structures in TypeScript.
 - See my other projects at [https://poom.dev](https://poom.dev).
   
