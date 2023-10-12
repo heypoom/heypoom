@@ -21,7 +21,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Poom.dev](https://github.com/heypoom/poom.dev): My personal website, portfolio, blog and digital garden. Built with Astro and Svelte. [Check it out.](https://poom.dev)
 - [Poom's Dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte. [See the prototype.](https://fastspend.poom.dev)
-- [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days.
+- [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days. [See the prototype.](https://eventkit.poom.dev)
 - [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion. [See the prototype.](https://prisoners-dilemma.netlify.app)
 - [Kasikorn Bank Statement PDF Parser](https://github.com/heypoom/kbank-statement-pdf-parser): Parses bank statements from Kasikorn Bank's PDF files.
 - [Kasikorn Credit Card Statement Parser](https://github.com/heypoom/kbank-credit-statement-pdf): Parses credit card statements from Kasikorn Bank's PDF files.
