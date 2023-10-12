@@ -28,8 +28,8 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Bullshit Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word. [Check it out.](https://bullshit-stack.netlify.app)
 - [Advanced Types Demo](https://github.com/heypoom/advanced-types-demo): Code sample from my talk on advanced types at TypeScript Berlin Meetup #4
 - [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX. [See the prototype.](https://lboard.netlify.app)
-- [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project.
-- [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API
+- [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project, built with C++.
+- [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API.
 - [Garden Gate](https://github.com/creatorsgarten/garden-gate): Door access control for [Garden Zero](https://creatorsgarten.org/wiki/GardenZero) club members.
 - [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly, good for crowded events, parades and photoshoots.
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A JavaScript library for adding Thai ceremonial banners to your site.
