@@ -61,7 +61,6 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Talk to Drumpf](https://github.com/heypoom/talk2drumpf): Have a conversation with donald trump. Uses web speech recognition API. [See the prototype.](https://rump.netlify.app)
 - [Muay Lumken](https://muay.netlify.app): What is the superstitious meanings behind your phone number? Powered by traditional Thai dark magic and a sprinkle of regular expressions and SAT equation solver.
 - [Algorithms in TypeScript](https://github.com/heypoom/algorithms-in-typescript): Exploring algorithms and data structures in TypeScript.
-- See my other projects at [https://poom.dev](https://poom.dev).
   
 See my other projects and writings at [https://poom.dev](https://poom.dev)
 
