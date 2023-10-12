@@ -86,7 +86,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
 - More talks are available at [my website](https://poom.dev).
 
-## Community Projects
+## Hosted events
 
 I've co-founded, organized and hosted a number of developer community projects, hackathons, meetups, workshops and events in Bangkok, Thailand since 2017. There is quite a lot of stories and memories behind these projects. It takes a lot of time and effort to do this, but it's totally worth it. Come join us in Bangkok!
 
@@ -109,7 +109,7 @@ I've co-founded, organized and hosted a number of developer community projects, 
 - [CodePlearn](https://creatorsgarten.org/event/codeplearn)
 - More events are available at [Creatorsgarten's website](https://creatorsgarten.org/events)
 
-## Links
+## Contact me
 
 - Contact me via Email at [poom@poom.dev](mailto:poom@poom.dev)
 - Ping me on Twitter at [@heypoom](https://twitter.com/heypoom)
