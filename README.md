@@ -23,7 +23,7 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 - [EventKit](https://github.com/creatorsgarten/eventkit): Organizing tech events doesn't have to be chaotic! A collection of tools and applications that help your team run events, from early planning to the chaotic event days. Built with TypeScript, React, Vite, Nest.js, GraphQL and Prisma. [See the prototype.](https://eventkit.poom.dev)
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte. [See the prototype.](https://fastspend.poom.dev)
 - [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion. [See the prototype.](https://prisoners-dilemma.netlify.app)
-- [Bullshit Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word. Built with React and TypeScript. [Check it out.](https://bullshit-stack.netlify.app)
+- [Bullshit Tech Stack Generator](https://github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word. Built with React and TypeScript. [Check it out.](https://bullshit-stack.netlify.app)
 - [Bank Statement](https://github.com/heypoom/kbank-statement-pdf-parser) and [Credit Card Statement](https://github.com/heypoom/kbank-credit-statement-pdf) PDF Parsers: Parses bank and credit card statements from Kasikorn Bank's PDF documents.
 - [Advanced Types Demo](https://github.com/heypoom/advanced-types-demo): Code sample from my talk on advanced types at TypeScript Berlin Meetup #4
 - [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX. [See the prototype.](https://lboard.netlify.app)
@@ -33,7 +33,7 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 - [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks. [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations, great for embedding in your blogs and digital garden.
 - [Webpack Dependency Graph Analyzer](https://github.com/heypoom/webpack-dep-graph): Analyzes and visualizes webpack's dependency graph.
-- [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
+- [Visual Binary Editor](https://github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. Create [cool drawings](https://unicode-sprite.netlify.app/stacked) out of unicode strings. [See the demo.](https://unicode-sprite.netlify.app/words)
 - [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
 - [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [See the prototype.](https://dumbassembly.netlify.app)
@@ -48,7 +48,7 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 - [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web. [See the demo.](https://glassmorphic.netlify.app)
 - [Terminal UI with CSS](https://github.com/heypoom/terminal-ui-with-css): Aesthetically pleasing terminal-style UI components for the web. [See the prototype.](https://css-terminal.netlify.app)
 - [Data Oriented Game Engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
-- [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
+- [React Rust](https://github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
 - [Mastering Backend Course](https://github.com/phoomparin/mastering-backend): My old TypeScript course back in 2019.
 - [Truth Table to Verilog](https://truth-table-to-verilog.netlify.app): Converts a truth table into Verilog code.
 - [Asmterpreter](https://github.com/heypoom/asmterpreter): Interactive Assembly Interpreter, written in TypeScript and React.
