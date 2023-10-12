@@ -1,4 +1,4 @@
-I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
+![image](https://github.com/heypoom/heypoom/assets/4714175/763bf4f8-7a88-467d-8b82-431e6c4737c3)![image](https://github.com/heypoom/heypoom/assets/4714175/f70b7893-0aae-412f-a651-6273947973b4)![image](https://github.com/heypoom/heypoom/assets/4714175/05cf796b-284c-44ca-b730-661214c8a884)![image](https://github.com/heypoom/heypoom/assets/4714175/3e515a61-d83d-4bc7-a414-31572a739121)![image](https://github.com/heypoom/heypoom/assets/4714175/3e28c52b-07b6-4ce5-9840-563e21c6e2cf)I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
 
 ## A little bit about me
 
@@ -44,6 +44,29 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
 - More talks are available at [my website](https://poom.dev).
+
+## Developer Community Projects in Thailand
+
+I've co-founded and hosted a number of developer community projects, hackathons, meetups, workshops and events in Bangkok, Thailand. There is quite a lot of stories and memories behind these projects. Come join us in Bangkok!
+
+- [Bangkok Open Source Hackathon](https://creatorsgarten.org/event/bangkok)
+- [The Stupid Hackathon Thailand series (2017 - 2023)](https://creatorsgarten.org/wiki/StupidHackTH)
+- [Hacktoberfest Thailand series (2019 - 2023)](https://creatorsgarten.org/wiki/HacktoberfestThailand)
+- [Garden Zero Hack Club series](https://creatorsgarten.org/wiki/GardenZero)
+- [How to learn almost anything series](https://creatorsgarten.org/event/learn2)
+- [Side Projects Showdown](https://creatorsgarten.org/event/sideproject)
+- [Elm for Frontend Developers](https://creatorsgarten.org/event/functional2)
+- [Functional Programming Meetup](https://creatorsgarten.org/event/functional)
+- [Biological Aesthetic of Nature](https://creatorsgarten.org/event/bio)
+- [Svelte Bangkok Meetup](https://creatorsgarten.org/event/svelte1)
+- [Data-Driven Love series](https://creatorsgarten.org/event/love2)
+- [Code Golf Party](https://creatorsgarten.org/event/golf1)
+- [Marshmallow Campfire](https://creatorsgarten.org/event/marshmallow)
+- [GraphQL Meetup Bangkok](https://creatorsgarten.org/event/graphql)
+- [BKK.JS series (2020 - 2023)](https://creatorsgarten.org/event/bkkjs14)
+- [Young Creator's Camp series](https://creatorsgarten.org/event/ycc1)
+- [CodePlearn](https://creatorsgarten.org/event/codeplearn)
+- More events are available at [Creatorsgarten's website](https://creatorsgarten.org/events)
 
 ## Links
 
