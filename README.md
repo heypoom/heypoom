@@ -34,6 +34,7 @@ I'm enthusiastic about building software, crafting indie products, open-source s
 - [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [Check it out](https://dumbassembly.netlify.app)
 - [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks. [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations, great for embedding in your blogs and digital garden.
+- [Webpack Dependency Graph Analyzer](https://github.com/heypoom/webpack-dep-graph): Analyzes and visualizes webpack's dependency graph.
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. Create [cool drawings](https://unicode-sprite.netlify.app/stacked) out of unicode strings. [See the demo.](https://unicode-sprite.netlify.app)
 - [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
@@ -45,7 +46,6 @@ I'm enthusiastic about building software, crafting indie products, open-source s
 - [Voiz](https://voiz.netlify.app): A silly voice assistant used for teaching JavaScript to kids.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits. [See the prototype.](https://gitgarden.netlify.app)
 - [GraphQL in 3 milliseconds](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
-- [Webpack Dependency Graph Analyzer](https://github.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
 - [Glassmorphic UI](https://github.com/heypoom/glassmorphic-ui): Glassmorphic-style UI components for the web. [See the demo.](https://glassmorphic.netlify.app)
 - [Terminal UI with CSS](https://github.com/heypoom/terminal-ui-with-css): Aesthetically pleasing terminal-style UI components for the web. [See the prototype.](https://css-terminal.netlify.app)
 - [Data Oriented Game Engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
