@@ -31,12 +31,12 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 Here are some of my talks. More slides and talk recordings will be shared soon!
 
 - [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
-- Copilot for Polyglot Programmers, GitHub Community Meetup at Microsoft
-  Building an MVP for Developers at KU Startup Camp
+- [Copilot for Polyglot Programmers], at GitHub Community Meetup, Microsoft Thailand
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
+- [Building an MVP for Developers](#!) at KU Startup Camp
 - AI Trends: Human and Machine Symbiosis at KMITL Lifelong Learning Centre
-- [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at Boundless Entrepreneurship event, KMUTT University
+- [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at KMUTT University
 - [GraphQL in three milliseconds with Rust](#!), at GraphQL Bangkok meetup.
 - [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
