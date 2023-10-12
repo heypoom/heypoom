@@ -22,9 +22,13 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Poom's Dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte.
 - [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days.
+- [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion.
+- [Asmterpreter](https://github.com/heypoom/asmterpreter): Interactive Assembly Interpreter, written in TypeScript and React.
+- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions!
 - [BS Tech Stack Generator](https:/github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word.
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
 - [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means.
+- [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX.
 - [Git Garden](https://github.com/heypoom/git-garden): Visualizes your git commit history into a grid of trees. More green = more commits.
 - [GraphQL in 3 ms](https://github.com/heypoom/graphql-in-3ms): A prototype for my GraphQL in Rust talk
 - [Webpack Dependency Graph Analyzer](https:/Lgithub.com/heypoom/webpack-dep-graph): Analyzes webpack's dependency graph.
@@ -32,7 +36,8 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated!
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A vanilla-JavaScript library for adding Thai ceremonial banners to your site.
-- [JWCx Registration Frontend](https://github.com/WebmasterCamp/jwcx-registration-frontend): Registration frontend built with React and Redux for JWCx.
+- [JWCx Grading](https://github.com/WebmasterCamp/jwcx-grading): Submission grading system with React, Firebase, Ant Design and Redux Saga.
+- [JWCx Registration](https://github.com/WebmasterCamp/jwcx-registration-frontend): Registration frontend built with React and Redux Saga.
 - See my other projects at [https://poom.dev](https://poom.dev).
   
 See my other projects and writings at [https://poom.dev](https://poom.dev)
