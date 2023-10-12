@@ -20,8 +20,8 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money. [Check it out.](https://spending.poom.dev)
 - [Poom.dev](https://github.com/heypoom/poom.dev): My personal website, portfolio, blog and digital garden. Built with Astro and Svelte. [Check it out.](https://poom.dev)
 - [Poom's Dotfiles](http://github.com/heypoom/dotfiles): my Fish, Neovim, Tmux and other configurations.
+- [EventKit](https://github.com/creatorsgarten/eventkit): Organizing tech events doesn't have to be chaotic! A collection of tools and applications that help your team run events, from early planning to the chaotic event days. [See the prototype.](https://eventkit.poom.dev)
 - [FastSpend](https://github.com/heypoom/fastspend): Log your spending in seconds with short text snippets. Powered by Rust, Cloudflare Workers and Svelte. [See the prototype.](https://fastspend.poom.dev)
-- [EventKit](https://github.com/creatorsgarten/eventkit): A collection of tools and applications that help your team run events, from early planning to the chaotic event days. [See the prototype.](https://eventkit.poom.dev)
 - [Prisoner's Dilemma Visualizer](https://github.com/heypoom/prisoners-dilemma-visualized): Visualizes the Prisoner's Dilemma with React, Jotai and Framer Motion. [See the prototype.](https://prisoners-dilemma.netlify.app)
 - [Kasikorn Bank Statement PDF Parser](https://github.com/heypoom/kbank-statement-pdf-parser): Parses bank statements from Kasikorn Bank's PDF files.
 - [Kasikorn Credit Card Statement Parser](https://github.com/heypoom/kbank-credit-statement-pdf): Parses credit card statements from Kasikorn Bank's PDF files.
@@ -30,6 +30,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX. [See the prototype.](https://lboard.netlify.app)
 - [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project.
 - [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API
+- [Garden Gate](https://github.com/creatorsgarten/garden-gate): Door access control for [Garden Zero](https://creatorsgarten.org/wiki/GardenZero) club members.
 - [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly!
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A vanilla-JavaScript library for adding Thai ceremonial banners to your site.
 - [Dropbox Online](https://github.com/creatorsgarten/dropbox-online): Drop messages to your friends after camps and workshops. [See the demo.](https://dropbox.poom.dev)
