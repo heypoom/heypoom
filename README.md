@@ -70,7 +70,7 @@ See my other projects and writings at [https://poom.dev](https://poom.dev)
 Here are some of my talks. More slides and talk recordings will be shared soon!
 
 - [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
-- [Copilot for Polyglot Programmers], at GitHub Community Meetup, Microsoft Thailand
+- [Copilot for Polyglot Programmers](#!), at Microsoft GitHub Copilot Meetup
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
 - [Building an MVP for Developers](#!) at KU Startup Camp
