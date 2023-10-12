@@ -36,7 +36,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Dropbox Online](https://github.com/creatorsgarten/dropbox-online): Drop messages to your friends after camps and workshops. [See the demo.](https://dropbox.poom.dev)
 - [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [Check it out](https://dumbassembly.netlify.app)
 - [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks. [See the prototype.](https://dotbudget.netlify.app)
-- [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
+- [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations, great for embedding in your blogs and digital garden.
 - [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means. [See the prototype.](https://thai-id.netlify.app)
 - [EventDuty](https://duties.netlify.app): An early prototype of EventKit; event scheduling management tool for tech events.
 - [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
