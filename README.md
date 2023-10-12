@@ -1,4 +1,6 @@
-I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand. I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
+I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand.
+
+I'm enthusiastic about building indie products, open-source software, civic technologies, creative inter-disciplinary projects, and learning in public. Nice to meet you!
 
 ## A little bit about me
 
