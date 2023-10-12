@@ -26,7 +26,7 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 - [Bullshit Tech Stack Generator](https://github.com/heypoom/bullshit-tech-stack-generator): Generates a random tech stack from NPM API out of any word. Built with React and TypeScript. [Check it out.](https://bullshit-stack.netlify.app)
 - [Bank Statement](https://github.com/heypoom/kbank-statement-pdf-parser) and [Credit Card Statement](https://github.com/heypoom/kbank-credit-statement-pdf) PDF Parsers: Parses bank and credit card statements from Kasikorn Bank's PDF documents.
 - [Advanced Types Demo](https://github.com/heypoom/advanced-types-demo): Code sample from my talk on advanced types at TypeScript Berlin Meetup #4
-- [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with WebMIDI, Vue.js and VueX. [See the prototype.](https://lboard.netlify.app)
+- [Launchboard](https://github.com/heypoom/launchboard): Uses your Novation Launchpad as an animation studio and sound board, built with TypeScript, React, MobX, WebMIDI and Emotion. [See the prototype.](https://lboard.netlify.app)
 - [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project, built with C++.
 - [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API.
 - [Garden Gate](https://github.com/creatorsgarten/garden-gate): Door access control for [Garden Zero](https://creatorsgarten.org/wiki/GardenZero) club members.
