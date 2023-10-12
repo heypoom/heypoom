@@ -31,13 +31,13 @@ I'm enthusiastic about building software, crafting indie products, open-source s
 - [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project, built with C++.
 - [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API.
 - [Garden Gate](https://github.com/creatorsgarten/garden-gate): Door access control for [Garden Zero](https://creatorsgarten.org/wiki/GardenZero) club members.
-- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [Check it out](https://dumbassembly.netlify.app)
 - [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks. [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations, great for embedding in your blogs and digital garden.
 - [Webpack Dependency Graph Analyzer](https://github.com/heypoom/webpack-dep-graph): Analyzes and visualizes webpack's dependency graph.
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. Create [cool drawings](https://unicode-sprite.netlify.app/stacked) out of unicode strings. [See the demo.](https://unicode-sprite.netlify.app)
 - [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
+- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [See the prototype.](https://dumbassembly.netlify.app)
 - [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly, good for crowded events, parades and photoshoots.
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A JavaScript library for adding Thai ceremonial banners to your site.
 - [Dropbox Online](https://github.com/creatorsgarten/dropbox-online): Drop messages to your friends after camps and workshops. [See the demo.](https://dropbox.poom.dev)
