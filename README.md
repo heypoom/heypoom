@@ -83,6 +83,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [Hacking on Libra with Rust](https://fb.watch/mux8RDW6kk) at Libra Developer Meetup, timestamp 26:42
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
+- [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
 - More talks are available at [my website](https://poom.dev).
 
 ## Community Projects
