@@ -47,7 +47,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
 - More talks are available at [my website](https://poom.dev).
 
-## Developer Community Projects in Thailand
+## Community Projects
 
 I've co-founded and hosted a number of developer community projects, hackathons, meetups, workshops and events in Bangkok, Thailand. There is quite a lot of stories and memories behind these projects. Come join us in Bangkok!
 
