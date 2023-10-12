@@ -88,7 +88,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 
 ## Community Projects
 
-I've co-founded, organized and hosted a number of developer community projects, hackathons, meetups, workshops and events in Bangkok, Thailand. There is quite a lot of stories and memories behind these projects. It takes a lot of time and effort to do this, but it's totally worth it. Come join us in Bangkok!
+I've co-founded, organized and hosted a number of developer community projects, hackathons, meetups, workshops and events in Bangkok, Thailand since 2017. There is quite a lot of stories and memories behind these projects. It takes a lot of time and effort to do this, but it's totally worth it. Come join us in Bangkok!
 
 - [Bangkok Open Source Hackathon](https://creatorsgarten.org/event/bangkok)
 - [The Stupid Hackathon Thailand series (2017 - 2023)](https://creatorsgarten.org/wiki/StupidHackTH)
