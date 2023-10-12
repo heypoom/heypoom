@@ -49,7 +49,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [Data Oriented Game Engine](https://github.com/heypoom/DOGE): A data-oriented game engine written in TypeScript.
 - [React Rust](https:/github.com/heypoom/react-rust): Use WebAssembly and Rust in your React apps, from my lightning talk at JSConf.Asia
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
-- [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. [See the demo.](https://unicode-sprite.netlify.app)
+- [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. Create [cool drawings](https://unicode-sprite.netlify.app/stacked) out of unicode strings. [See the demo.](https://unicode-sprite.netlify.app)
 - [Mastering Backend Course](https://github.com/phoomparin/mastering-backend): My old TypeScript course back in 2019.
 - [Truth Table to Verilog](https://truth-table-to-verilog.netlify.app): Converts a truth table into Verilog code.
 - [Asmterpreter](https://github.com/heypoom/asmterpreter): Interactive Assembly Interpreter, written in TypeScript and React.
