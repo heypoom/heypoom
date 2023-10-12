@@ -73,7 +73,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon!
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
 - [Building an MVP for Developers](#!) at KU Startup Camp
-- AI Trends: Human and Machine Symbiosis at KMITL Lifelong Learning Centre
+- [AI Trends: Human and Machine Symbiosis](#!) at KMITL Lifelong Learning Centre
 - [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at KMUTT University
 - [GraphQL in three milliseconds with Rust](#!), at GraphQL Bangkok meetup.
 - [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
