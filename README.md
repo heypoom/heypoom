@@ -37,7 +37,6 @@ I'm enthusiastic about building software, crafting indie products, open-source s
 - [Visual Binary Editor](https:/github.com/heypoom/visual-binary-editor): A visual binary editor, because hex editors are overrated! [See the prototype.](https://visualbin.netlify.app)
 - [Unicode Sprites](https://github.com/heypoom/unicode-sprite): Turn a unicode character into a 4x4 binary matrix. Create [cool drawings](https://unicode-sprite.netlify.app/stacked) out of unicode strings. [See the demo.](https://unicode-sprite.netlify.app)
 - [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
-- [PyVoiceKit](https://github.com/techforthai/PyVoiceKit): Python learning toolkit built with Pyiodide to create voice assistants in the web. [See the prototype.](https://voicekit.netlify.app)
 - [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly, good for crowded events, parades and photoshoots.
 - [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A JavaScript library for adding Thai ceremonial banners to your site.
 - [Dropbox Online](https://github.com/creatorsgarten/dropbox-online): Drop messages to your friends after camps and workshops. [See the demo.](https://dropbox.poom.dev)
