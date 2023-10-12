@@ -4,7 +4,7 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 
 ## A little bit about me
 
-- I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure.
+- I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure. I like to use [these React libraries](https://poom.dev/react-libraries-review-as-of-june-2023) for my projects.
 - I like getting my hands dirty in a very wide range of things in computer science and software engineering, from low-level stuff, building compilers, reverse engineering binaries, all the way up to abusing TypeScript's type system to build libraries, architecting frontend applications and backend systems, and building interactive apps. Even if I mainly worked on frontend in my day job, exploring various topics keeps me happy and growing.
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
 - I dropped out of high school since I was 15 years old to focus on building software, and I've worked in several startups in Thailand and United States since.
