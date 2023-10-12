@@ -31,11 +31,11 @@ I'm enthusiastic about building indie products, open-source software, civic tech
 - [ESP Recorder](https://github.com/heypoom/ESPRecorder): Code for my ESP32 video recorder sent to space in the Blue Origin rocket in the [MESSE](https://spaceth.co/messe) project.
 - [Adaptors for PromoStandards](https://adaptors-demo.netlify.app): PromoStandards API proxy to transform and cache the legacy SOAP/WSDL-based API into a modern GraphQL API
 - [Garden Gate](https://github.com/creatorsgarten/garden-gate): Door access control for [Garden Zero](https://creatorsgarten.org/wiki/GardenZero) club members.
-- [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly!
-- [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A vanilla-JavaScript library for adding Thai ceremonial banners to your site.
+- [Mob Sign](https://mobsign.netlify.app): Create flashy rainbow signs instantly, good for crowded events, parades and photoshoots.
+- [Songphracharoen.js](https://github.com/heypoom/songphracharoen.js): A JavaScript library for adding Thai ceremonial banners to your site.
 - [Dropbox Online](https://github.com/creatorsgarten/dropbox-online): Drop messages to your friends after camps and workshops. [See the demo.](https://dropbox.poom.dev)
-- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions! [Check it out](https://dumbassembly.netlify.app)
-- [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks! [See the prototype.](https://dotbudget.netlify.app)
+- [DumbAssembler](https://github.com/heypoom/dumbassembler): Use dumb humans to run assembly instructions. [Check it out](https://dumbassembly.netlify.app)
+- [DotBudget](https://github.com/heypoom/dotbudget): Flat-file budgeting tools for productive geeks. [See the prototype.](https://dotbudget.netlify.app)
 - [Totality Editor](https://github.com/heypoom/totality-editor): Live-editable editor for hacking on simulations and quick tools.
 - [National ID Card Analyzer](https://github.com/heypoom/national-id-meaning): Understand what your 13-digit Thai national id card actually means. [See the prototype.](https://thai-id.netlify.app)
 - [EventDuty](https://duties.netlify.app): An early prototype of EventKit; event scheduling management tool for tech events.
