@@ -1,9 +1,10 @@
-I'm Poom, a software engineer, indie maker, and community builder from Bangkok, Thailand.
+I'm Poom, a software engineer and community builder from Bangkok, Thailand.
 
 I'm enthusiastic about building software, crafting indie products, supporting open-source, learning in public, exploring computer science, and building communities and projects at the inter-disciplinary intersection of technology, creativity, and humanities. Nice to meet you!
 
 ## A little bit about me
 
+- I'm currently working at [Metabase](https://metabase.com) as a frontend engineer.
 - I love building projects with TypeScript, Rust, and React. I'm also learning Kotlin, Elixir and Clojure. I like to use [these React libraries](https://poom.dev/react-libraries-review-as-of-june-2023) for my projects. I'm primarily a full-stack developer, and I've been writing software professionally for 6+ years.
 - I like getting my hands dirty in a very wide range of things in computer science and software engineering, from low-level stuff, building compilers, reverse engineering binaries, all the way up to abusing TypeScript's type system to build libraries, architecting frontend applications and backend systems, and building interactive apps. Even if I primarily worked on frontend development & architecture in my day job, exploring various topics keeps me happy and growing.
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
