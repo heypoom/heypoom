@@ -16,6 +16,7 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 
 ## Projects
 
+- [Patchies](https://github.com/heypoom/patchies): A tool to build audio-visual patches on the web. Use audio-visual tools such as P5.js, Hydra, Strudel, GLSL, HTML5 Canvas, Generative AI, and patch them together via Smalltalk-style message passing and TouchDesigner-style video chaining.
 - [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with TypeScript, React, Reactflow, Nanostores, Radix UI and WebAssembly Bindgen.
 - [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts, in collaboration with MIT Media Lab and Pichet Klunchun Dance Company. [See the prototype.](https://no60-prototype.netlify.app)
 - [Spending Visualizer](https://github.com/heypoom/spending-visualizer): Parses your transactions from credit card and bank statements, and visualizes how you spend your money. Built with TypeScript, Svelte and SvelteKit. [Check it out.](https://spending.poom.dev)
