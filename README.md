@@ -1,6 +1,6 @@
-I'm Poom, a software engineer and community builder from Bangkok, Thailand.
+I'm Poom, a software engineer and indie maker from Bangkok, Thailand.
 
-I'm enthusiastic about building software, crafting indie products, supporting open-source, learning in public, exploring computer science, and building communities and projects at the inter-disciplinary intersection of technology, creativity, and humanities. Nice to meet you!
+I'm enthusiastic about building software, crafting indie products, supporting open-source, learning in public, exploring computer science, and building communities and projects at the inter-disciplinary intersection of technology, creativity, and humanities. I'm currently interested in constructionist learning through building simulations, to learn topics such as mathematics, physics and complex system theory. Nice to meet you!
 
 ## A little bit about me
 
@@ -9,9 +9,12 @@ I'm enthusiastic about building software, crafting indie products, supporting op
 - I like getting my hands dirty in a very wide range of things in computer science and software engineering, from low-level stuff, building compilers, reverse engineering binaries, all the way up to abusing TypeScript's type system to build libraries, architecting frontend applications and backend systems, and building interactive apps. Even if I primarily worked on frontend development & architecture in my day job, exploring various topics keeps me happy and growing.
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
 - I dropped out of high school since I was 15 years old to focus on building software, and I've worked in several startups in Thailand and United States since.
-- I was the VP of Engineering, Director of Product and Head of Platform at Brikl, where I explored people and product management in addition to software engineering. While I could do people and product management, I believe coding and building in public is what truly makes me happy!
+- I was the VP of Engineering, Director of Product and Head of Platform at Brikl, where I explored people and product management in addition to software engineering. While I could do management, I believe coding and building in public is what truly makes me happy.
 - I gave ~60 talks on software engineering and learning principles in meetups, conferences and universities.
 - I'm a plushie collector, I really love plushies and you will see me carrying plushies everyday. I'll pay for your dinner if you can remember 20 of my plushies' name!
+- My favourite books are Lifelong Kindergarten, The Computational Beauty of Nature, Godel-Escher-Bach: An Eternal Golden Braid, Whiplash, The Hardware Hacker and Never Split the Difference.
+- My favourite novels are Three Body Problem series, Neal Stephenson novels (Anathem, Cryptonomicon, The Diamond Age, Snow Crash), the Ender's Game series, Murakami books.
+- My favourite games are Minecraft, A Short Hike, A Space for the Unbound, Until Then, Spiritfarer, Chicory: A Colorful Tale, Journey and GRIS.
 - I enjoy onsen baths, Japanese cuisine, Macarons, swimming in the sea and waterfalls, hiking the mountains, camping, jogging, and jet skiing.
 
 ## Projects
