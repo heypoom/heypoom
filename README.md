@@ -1,8 +1,8 @@
-I'm Poom, a software engineer and indie maker from Bangkok, Thailand.
+I'm Poom, a software engineer at day and indie maker at night from Bangkok, Thailand.
 
-I'm enthusiastic about building complex tools, constructivist learning, computer simulations, computer science, and building projects at the inter-disciplinary intersection of technology, creativity, and humanities.
+I'm enthusiastic about building complex tools and systems, constructivist learning, computer simulations, computer science, and building projects at the inter-disciplinary intersection of technology, creativity, and humanities.
 
-My latest interest is constructionist learning through building simulations, to express yourself through art and learn topics such as mathematics, physics and complex system theory. 
+My latest interest is constructionist learning through building simulations, to express yourself through art, and to learn topics such as mathematics and physics through creation.
 
 Nice to meet you!
 
