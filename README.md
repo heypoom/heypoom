@@ -14,7 +14,7 @@ Nice to meet you!
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
 - I dropped out of high school since I was 15 to focus on building software, and I've worked in several startups in Thailand and United States since.
 - I was the VP of Engineering, Director of Product and Head of Platform at Brikl, where I explored people and product management in addition to software engineering. While I could do management, I believe coding and building in public is what truly makes me happy.
-- I gave ~60 talks on software engineering and learning principles in meetups, conferences and universities.
+- I gave a few talks on software engineering and learning principles in meetups, conferences and universities.
 
 ## My favourites
 
