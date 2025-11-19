@@ -16,11 +16,11 @@ Nice to meet you!
 
 ## My favourites
 
-- I'm a huge plushie lover, I really love my big group of plush friends and you will see me carrying plushies everyday. I'll pay for your dinner if you can remember ten of my plushies' name ;)
 - My favourite books are Lifelong Kindergarten, The Computational Beauty of Nature, Godel-Escher-Bach: An Eternal Golden Braid, Whiplash, The Hardware Hacker and Never Split the Difference.
 - My favourite novels are Three Body Problem series, Neal Stephenson novels (Anathem, Cryptonomicon, The Diamond Age, Snow Crash), the Ender's Game series, and Murakami books.
 - My favourite games are heavily modded Minecraft, A Short Hike, A Space for the Unbound, Until Then, Spiritfarer, Chicory: A Colorful Tale, Cult of the Lamb, Journey and GRIS.
 - I enjoy onsen baths, Japanese cuisine, Macarons, swimming in the sea and waterfalls, hiking the mountains, camping, jogging, and jet skiing.
+- I'm a huge plushie lover! I'll pay for your dinner if you can remember ten of my plushies' name ;)
 
 ## Projects
 
@@ -38,25 +38,23 @@ Nice to meet you!
 
 ## Talks
 
-Here are some of my talks. More slides and talk recordings will be shared soon!
+Here are some of my talks. More slides and talk recordings will be shared soon ;)
 
-- [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
-- [Copilot for Polyglot Programmers](#!), at Microsoft GitHub Copilot Meetup
+- [Patchies demo at SONICTHREAD](https://www.youtube.com/watch?v=qcephqJj7a4&t=282s)
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
-- [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
-- [Building an MVP for Developers](#!) at KU Startup Camp
-- [AI Trends: Human and Machine Symbiosis](#!) at KMITL Lifelong Learning Centre
-- [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at KMUTT University
-- [GraphQL in three milliseconds with Rust](#!), at GraphQL Bangkok meetup.
-- [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
+- [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
+- [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
+- [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at KMUTT University
 - [Building Magic at TEDxYouth Bangkok](https://www.youtube.com/watch?v=A2JUeJcPAaQ)
 - [For the love of WebAssembly, Tencent OpenHouse](https://fb.watch/muwS91g1f6), at timestamp 59:30
 - [Hacking on Libra with Rust](https://fb.watch/mux8RDW6kk) at Libra Developer Meetup, timestamp 26:42
 - [CodeMania Conference](https://www.youtube.com/watch?v=1WJTMmhsIgQ)
 - [React Bangkok 3.0.0](https://www.youtube.com/watch?v=g7kEw76Yjic)
 - [WebAssembly in Action](https://www.youtube.com/watch?v=-2iJG0FVGaY), at JSConf.Asia (Lightning Talk)
-- More talks are available at [my website](https://poom.dev).
+- [GraphQL in three milliseconds with Rust](#!), at GraphQL Bangkok meetup.
+- [Copilot for Polyglot Programmers](#!), at Microsoft GitHub Copilot Meetup
+- [Building a data-oriented game engine](#!) at TypeScript Bangkok Meetup
 
 ## Hosted events
 
