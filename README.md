@@ -40,7 +40,7 @@ Nice to meet you!
 
 Here are some of my talks. More slides and talk recordings will be shared soon ;)
 
-- [Patchies demo at SONICTHREAD](https://www.youtube.com/watch?v=qcephqJj7a4&t=282s)
+- [Patchies demo at SONICTHREAD](https://www.youtube.com/watch?v=qcephqJj7a4)
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
 - [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
