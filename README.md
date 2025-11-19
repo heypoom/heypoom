@@ -20,7 +20,7 @@ Nice to meet you!
 - My favourite novels are Three Body Problem series, Neal Stephenson novels (Anathem, Cryptonomicon, The Diamond Age, Snow Crash), the Ender's Game series, and Murakami books.
 - My favourite games are heavily modded Minecraft, A Short Hike, A Space for the Unbound, Until Then, Spiritfarer, Chicory: A Colorful Tale, Cult of the Lamb, Journey and GRIS.
 - I enjoy onsen baths, Japanese cuisine, Macarons, swimming in the sea and waterfalls, hiking the mountains, camping, jogging, and jet skiing.
-- I'm a huge plushie lover! I'll pay for your dinner if you can remember ten of my plushies' name ;)
+- I'm a huge plushie lover. _I might pay for your dinner if you can remember ten of my plushies' name ;)_
 
 ## Projects
 
