@@ -40,11 +40,14 @@ Nice to meet you!
 
 Here are some of my talks. More slides and talk recordings will be shared soon ;)
 
-- [Patchies demo at SONICTHREAD](https://www.youtube.com/watch?v=qcephqJj7a4)
+- [Patchies Demo :: SONICTHREAD](https://www.youtube.com/watch?v=qcephqJj7a4)
+- [Dance with Three.js: Generative Dances with JavaScript](https://creatorsgarten.org/videos/bkkjs20/subin)
+- [TypeScript Theatre: Coding Art Performances with Algorithms](https://creatorsgarten.org/videos/jsbkk2/art-performance)
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
+- [Thai UI: Building a an open-source system for Thais](https://creatorsgarten.org/videos/cssmeetup0823/thai-ui)
+- [Threat of Automation :: A World Without Work](https://creatorsgarten.org/videos/worldwithoutwork/s2)
 - [Building Brikl: Frontend Monorepo at Scale](https://www.youtube.com/live/nPpzhMUJjPE?si=LRYc760qDemhQQtM&t=2282)
-- [Building an open-source design system for Thais](https://fb.watch/muwXji0XeQ), at CSS Meetup 16/08/2023, timestamp 02:17:39.
 - [How to learn almost anything](https://www.kmutt.ac.th/news/kmutt-news/660831-hatch) at KMUTT University
 - [Building Magic at TEDxYouth Bangkok](https://www.youtube.com/watch?v=A2JUeJcPAaQ)
 - [For the love of WebAssembly, Tencent OpenHouse](https://fb.watch/muwS91g1f6), at timestamp 59:30
