@@ -44,6 +44,7 @@ Here are some of my talks. More slides and talk recordings will be shared soon ;
 - [Dance with Three.js: Generative Dances with JavaScript](https://creatorsgarten.org/videos/bkkjs20/subin)
 - [TypeScript Theatre: Coding Art Performances with Algorithms](https://creatorsgarten.org/videos/jsbkk2/art-performance)
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
+- [Build your own interactive audio-visual computing environment with Rust and WebAssembly](https://www.eventyay.com/e/55d2a466/session/8950) at FOSSAsia Summit 2024
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
 - [Thai UI: Building a an open-source system for Thais](https://creatorsgarten.org/videos/cssmeetup0823/thai-ui) for CSS Meetup 2023
 - [Threat of Automation :: A World Without Work](https://creatorsgarten.org/videos/worldwithoutwork/s2)
