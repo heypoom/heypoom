@@ -41,8 +41,8 @@ Nice to meet you!
 Here are some of my talks. More slides and talk recordings will be shared soon ;)
 
 - [Patchies Demo: Audio-Visual Creative Coding Patcher](https://www.youtube.com/watch?v=qcephqJj7a4) for SONICTHREAD at SYNAP Home Lab
-- [Dance with Three.js: Generative Dances with JavaScript](https://creatorsgarten.org/videos/bkkjs20/subin)
-- [TypeScript Theatre: Coding Art Performances with Algorithms](https://creatorsgarten.org/videos/jsbkk2/art-performance)
+- [Dance with Three.js: Generative Dances with JavaScript](https://creatorsgarten.org/videos/bkkjs20/subin) at BKK.JS #20
+- [TypeScript Theatre: Coding Art Performances with Algorithms](https://creatorsgarten.org/videos/jsbkk2/art-performance) at JavaScript Bangkok 2.0.0
 - [Building open source to make Bangkok suck less](https://www.eventyay.com/e/7cfe0771), at FOSSAsia Summit 2023
 - [Build your own interactive audio-visual computing environment with Rust and WebAssembly](https://www.eventyay.com/e/55d2a466/session/8950) at FOSSAsia Summit 2024
 - [You might (not) need advanced types](https://www.youtube.com/watch?v=IfSoc75rWr8) for TypeScript Berlin Meetup #4.
