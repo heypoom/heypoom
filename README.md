@@ -9,7 +9,7 @@ Nice to meet you!
 ## A little bit about me
 
 - In the afternoon, I work on [Metabase](https://metabase.com), an open-source business analytics tool, as a frontend engineer on the [embedded analytics](https://www.metabase.com/product/embedded-analytics-sdk) team.
-- After midnight, I build [Patchies](https://patchies.app), an [open-source](https://github.com/heypoom/patchies) creative coding patcher for audio-visual things that runs on the web.
+- After midnight, I build [Patchies](https://patchies.app), an [open-source](https://github.com/heypoom/patchies) creative coding patcher for audio, visual and computational things that runs on the web.
 - I love building projects with TypeScript, Rust, Svelte and React. I'm also learning Kotlin, Elixir and Clojure. I've been writing software professionally for 8+ years.
 - I like getting my hands dirty in a very wide range of things in computer science and software engineering, from low-level stuff, building compilers, reverse engineering binaries, all the way up to abusing TypeScript's type system to build libraries, architecting frontend applications and backend systems, and building interactive apps. Even if I primarily work on frontend stuff in my current day job, exploring various topics keeps me happy and growing.
 - I co-founded [Creatorsgarten](https://creatorsgarten.org), a collective of creators and software engineers with love of hacking, creativity, and interdisciplinary thinking. It's basically a group of friends who likes building things, and exploring different domains! We've organized [50+ hackathons, meetups, events and long-term community projects](https://creatorsgarten.org/events) in Bangkok, Thailand since 2017.
