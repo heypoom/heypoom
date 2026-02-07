@@ -25,7 +25,7 @@ Nice to meet you!
 
 ## Projects
 
-- [Patchies](https://github.com/heypoom/patchies): A tool to build audio-visual patches on the web. Use audio-visual tools such as P5.js, Hydra, Strudel, GLSL, ChucK, Web Audio, HTML5 Canvas, and patch them together via Smalltalk-style message passing and TouchDesigner-style video chaining. [Try it out at Patchies.app!](https://patchies.app)
+- [Patchies](https://github.com/heypoom/patchies): A tool to build audio, visual and computational patches for things that lives on the web. Use audio-visual tools such as P5.js, Hydra, Strudel, GLSL and Web Audio. Patch them together via message passing, audio chaning and video chaining. [Try it out at Patchies.app!](https://patchies.app)
 - [Visual Assembly Canvas](https://github.com/heypoom/visual-assembly-canvas): A visual canvas and bytecode virtual machine for writing assembly to build cool things. Create machines and connect them together. The bytecode VM and compiler is built in Rust, compiled to WebAssembly, and used in the visual editor built with TypeScript, React, Reactflow, Nanostores, Radix UI and WebAssembly Bindgen.
 - [Photo Flashcard](https://github.com/heypoom/photo-flashcard): Learn languages by taking photos of objects and collect flashcards. Draw and capture to answer challenges with AI, and play it multiplayer with friends! [Try it out at flashcard.poom.dev](https://flashcard.poom.dev)
 - [OpenCyberDance](https://github.com/mitmedialab/OpenCyberDance): An open-source cybernetic dance system built with Three.js and motion capture, based on traditional Thai dances and performance arts, in collaboration with MIT Media Lab and Pichet Klunchun Dance Company. [See the prototype.](https://no60-prototype.netlify.app)
